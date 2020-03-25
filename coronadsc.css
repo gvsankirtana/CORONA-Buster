@@ -6,7 +6,7 @@
 #header{
     height:800px;
     
-    background-image: url(file:///C:/Users/SANKIRTANA/Desktop/virusususus.jpg);
+    background-image: url(website_pics/virusususus.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -112,7 +112,7 @@ a:hover{
     display: flex;
     align-items: center;
     flex-wrap: wrap;
-    background-image: url("file:///C:/Users/SANKIRTANA/Desktop/deadly%20virus.jpg");
+    background-image: url("website_pics/deadly%20virus.jpg");
     filter: brightness(40%);
     filter:grayscale(10%);
     background-position: center;
@@ -141,7 +141,7 @@ q blockquote big {
 #features{
     padding-top: 60px;
     padding-bottom:60px ;
-    background-image: url("file:///C:/Users/SANKIRTANA/Desktop/corona%20ds.jpg");
+    background-image: url("website_pics/corona%20ds.jpg");
    
 }
 .row{
@@ -180,7 +180,7 @@ h1 big {
 display:flex;
 align-items: center;
 flex-wrap: wrap;
-background-image: url("file:///C:/Users/SANKIRTANA/Desktop/coronwrgheo.jpg");
+background-image: url("website_pics/coronwrgheo.jpg");
 background-position: center;
 background-size: contain;
 }
@@ -205,7 +205,7 @@ background-size: contain;
 display:flex;
 align-items: center;
 flex-wrap: wrap;
-background-image: url("file:///C:/Users/SANKIRTANA/Desktop/coronwrgheo.jpg");
+background-image: url("website_pics/coronwrgheo.jpg");
 background-position: center;
 background-size: contain;
 text-transform: uppercase;
@@ -216,7 +216,7 @@ text-transform: uppercase;
 display:flex;
 align-items: center;
 flex-wrap: wrap;
-background-image: url("file:///C:/Users/SANKIRTANA/Desktop/news.jpg");
+background-image: url("website_pics/news.jpg");
 background-position: center;
 background-size: cover;
 text-align: right;
@@ -229,7 +229,7 @@ text-transform: uppercase;
 display:flex;
 align-items: center;
 flex-wrap: wrap;
-background-image: url("file:///C:/Users/SANKIRTANA/Desktop/prevention.jpg");
+background-image: url("website_pics/prevention.jpg");
 background-position: center;
 background-size: contain;
 text-transform: uppercase;
@@ -240,7 +240,7 @@ text-transform: uppercase;
 display:flex;
 align-items: center;
 flex-wrap: wrap;
-background-image: url("file:///C:/Users/SANKIRTANA/Desktop/Japanese_Red_Cross_Nagoya_Daini_hospital.jfif");
+background-image: url("website_pics/Japanese_Red_Cross_Nagoya_Daini_hospital.jfif");
 background-position: center;
 background-size: contain;
 text-transform: uppercase;
@@ -252,7 +252,7 @@ filter: drop-shadow(50%);
 display:flex;
 align-items: left;
 flex-wrap: wrap;
-background-image: url("file:///C:/Users/SANKIRTANA/Desktop/symptoms.jpg");
+background-image: url("website_pics/symptoms.jpg");
 background-position: center;
 background-size: contain;
 text-align-last: left;
@@ -296,7 +296,7 @@ p big i em b{
 display:flex;
 align-items: left;
 flex-wrap: wrap;
-background-image: url("file:///C:/Users/SANKIRTANA/Desktop/cases.jpg");
+background-image: url("website_pics/cases.jpg");
 background-position: center;
 background-size: cover;
 text-align-last: left;
@@ -308,7 +308,7 @@ text-transform: uppercase;
 display:flex;
 align-items: left;
 flex-wrap: wrap;
-background-image: url("file:///C:/Users/SANKIRTANA/Desktop/myth.jpg");
+background-image: url("website_pics/myth.jpg");
 background-position: center;
 background-size: cover;
 text-align-last: left;
@@ -320,7 +320,7 @@ text-transform: uppercase;
 display:flex;
 align-items: left;
 flex-wrap: wrap;
-background-image: url("file:///C:/Users/SANKIRTANA/Desktop/isolation.jpg");
+background-image: url("website_pics/isolation.jpg");
 background-position: center;
 background-size: cover;
 text-align-last: left;
