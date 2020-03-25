@@ -291,40 +291,40 @@ p big i em b{
     display: inline;
 }
 .case{
-    padding-top: 50px;
-    padding-bottom: 100px;
-display:flex;
-align-items: left;
-flex-wrap: wrap;
-background-image: url("website_pics/cases.jpg");
-background-position: center;
-background-size: cover;
-text-align-last: left;
-text-transform: uppercase;
+    	padding-top: 50px;
+    	padding-bottom: 100px;
+	display:flex;
+	align-items: left;
+	flex-wrap: wrap;
+	background-image: url("website_pics/cases.jpg");
+	background-position: center;
+	background-size: cover;
+	text-align-last: left;
+	text-transform: uppercase;
 }
 .myth{
-    padding-top: 60px;
-    padding-bottom: 60px;
-display:flex;
-align-items: left;
-flex-wrap: wrap;
-background-image: url("website_pics/myth.jpg");
-background-position: center;
-background-size: cover;
-text-align-last: left;
-text-transform: uppercase;
+    	padding-top: 60px;
+    	padding-bottom: 60px;
+	display:flex;
+	align-items: left;
+	flex-wrap: wrap;
+	background-image: url("website_pics/myth.jpg");
+	background-position: center;
+	background-size: cover;
+	text-align-last: left;
+	text-transform: uppercase;
 }
 .isolation{
     padding-top: 60px;
     padding-bottom: 60px;
-display:flex;
-align-items: left;
-flex-wrap: wrap;
-background-image: url("website_pics/isolation.jpg");
-background-position: center;
-background-size: cover;
-text-align-last: left;
-text-transform: uppercase;
+	display:flex;
+	align-items: left;
+	flex-wrap: wrap;
+	background-image: url("website_pics/isolation.jpg");
+	background-position: center;
+	background-size: cover;
+	text-align-last: left;
+	text-transform: uppercase;
 }
 .text{
     max-width: 340px;
