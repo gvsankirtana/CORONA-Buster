@@ -28,3 +28,6 @@ header{
 .content h3{
   padding-top: 15px;
 }
+.content p{
+  padding-left: 10px;
+}
