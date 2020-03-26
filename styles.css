@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  max-width: 100%;
+  background-color: rgba(200, 200, 200, 0.9);
+}
+header{
+  background-color: rgba(0, 200, 0, 0.7);
+  padding: 15px;
+  padding-left: 10%;
+  color: white;
+  display: block;
+  text-shadow: 2px 2px 4px #000000;
+  border: 1px solid white;
+}
+.content{
+  max-width: 80%;
+  margin-left: 10%;
+  background-color: white;
+  padding: 10px;
+  padding-left: 10px;
+  color: rgba(10, 10, 10, 0.9);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height:100%;
+}
+.content h3{
+  padding-top: 15px;
+}
