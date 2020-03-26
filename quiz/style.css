@@ -15,7 +15,7 @@ body {
 
 .grid h1 {
     font-family: "sans-serif";
-    background-color: #01BBFF;
+    background-color: rgba(0, 200, 0, 0.7);
     font-size: 60px;
     text-align: center;
     color: #ffffff;
@@ -24,7 +24,7 @@ body {
 }
 
 #score {
-    color: #01BBFF;
+    color: rgba(0, 200, 0, 0.7);
     text-align: center;
     font-size: 30px;
 }
@@ -32,7 +32,7 @@ body {
 .grid #question {
     font-family: "monospace";
     font-size: 30px;
-    color: #01BBFF;
+    color: rgba(0, 200, 0, 0.7);
 }
 
 .buttons {
@@ -40,7 +40,7 @@ body {
 }
 
 #btn0, #btn1{
-    background-color: #01BBFF;
+    background-color: rgba(0, 200, 0, 0.7);
     width: 250px;
     font-size: 20px;
     color: #fff;
@@ -51,7 +51,7 @@ body {
 
 #btn0:hover, #btn1:hover{
     cursor: pointer;
-    background-color: #01BBFF;
+    background-color: rgba(0, 200, 0, 0.7);
 }
 
 #btn0:focus, #btn1:focus{
